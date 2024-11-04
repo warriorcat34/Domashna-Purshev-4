@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\bin\Debug\net8.0\domashna - 4 4.11.24.exe
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\bin\Debug\net8.0\domashna - 4 4.11.24.deps.json
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\bin\Debug\net8.0\domashna - 4 4.11.24.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\bin\Debug\net8.0\domashna - 4 4.11.24.dll
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\bin\Debug\net8.0\domashna - 4 4.11.24.pdb
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\domashna - 4 4.11.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\domashna - 4 4.11.24.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\domashna - 4 4.11.24.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\domashna - 4 4.11.24.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\domashna - 4 4.11.24.dll
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\refint\domashna - 4 4.11.24.dll
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\domashna - 4 4.11.24.pdb
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\domashna - 4 4.11.24.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\domashna - 4 4.11.24\domashna - 4 4.11.24\obj\Debug\net8.0\ref\domashna - 4 4.11.24.dll
